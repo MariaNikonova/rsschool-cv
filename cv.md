@@ -1,20 +1,21 @@
 # Mariia Nikonova
 ## Salesforce developer
-text about myself
+Back-end. Now going to improve my front-end skills.
 ## Experience
-* current job
+* current job (07.2022 - now)
 
 
-details about my current job
+Working as salesforce developer in Rio de Janeiro, Brasil
 
 
-* previous job
+* previous job (2012-2022)
 
 
-details about my previous job
+Worked as 1C developer in Russia
 
 ## Educatuon
-* univercity
-* courses
+* TUSUR
+* Javarush
+* Trailhead
 
 
